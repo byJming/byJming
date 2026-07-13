@@ -1,13 +1,5 @@
 # byJming
 
-<div align="center">
-
-## 专注把想法变为可运行、可交付的产品
-
-</div>
-
----
-
 ## 关于我
 
 你好，我是 Ming。
@@ -26,15 +18,6 @@
 - **商户合作与业务落地**：拓展校园周边商户合作，在小程序内成功落地数字化代金券的对接与分发。
 - **Web 安全与漏洞挖掘**：熟悉网络协议与常见 Web 漏洞，结合自动化脚本进行安全分析，曾向漏洞盒子及企业 SRC 平台提交过有效漏洞。
 
-## 正在沉淀的能力
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=3776ab" alt="Python" />
-  <img src="https://img.shields.io/badge/Web%20Security-1f2937?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Web Security" />
-  <img src="https://img.shields.io/badge/Cloud%20Deploy-1f2937?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Deploy" />
-  <img src="https://img.shields.io/badge/Product%20Building-1f2937?style=for-the-badge&logo=vercel&logoColor=white" alt="Product Building" />
-</p>
 
 ## 公开贡献
 
@@ -51,11 +34,10 @@
 
 - 喜欢摄影，偏爱梦核、复古、胶片感的视觉表达
 - 喜欢音乐，pop、R&B、民谣...
-- 是 `Counter-Strike 2` 玩家，主打自由人位，常玩 `Ancient`，5E 平台 S 段
+- 是 `Counter-Strike 2` 玩家，主打自由人位，常玩 `Ancient`，5E 平台历史最高 S 段
 - 相信技术不只服务于功能，也服务于体验和表达
 
 ## 联系方式
 
 - 博客：[mingblog.site](https://mingblog.site/)
 - 邮箱：[woqiang0610@163.com](mailto:woqiang0610@163.com)
-
